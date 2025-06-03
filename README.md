@@ -17,6 +17,6 @@ This script automates the following manual processes:
 
 Inside the objection console:
 
-- android proxy set <IP_ADDR> 8080
+- android proxy set <MAC_IP_ADDR> 8080
 - android sslpinning disable
 
