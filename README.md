@@ -16,6 +16,7 @@ This script automates the following manual processes:
    objection -g com.freestylelibre3.app.us explore
 
 Inside the objection console:
+
 ```bash android proxy set 192.168.1.224 8080
-```bash android sslpinning disable
+
 
