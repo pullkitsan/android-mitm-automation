@@ -13,7 +13,7 @@ This script automates the following manual processes:
 3. **Hook into Your App Using `objection`**
 
    ```bash
-   objection -g <APP_NAME> explore
+   objection -g <APP_PACKAGE_NAME> explore
 
 Inside the objection console:
 
