@@ -13,7 +13,7 @@ This script automates the following manual processes:
 3. **Hook into Your App Using `objection`**
 
    ```bash
-   objection -g com.freestylelibre3.app.us explore
+   objection -g <APP_NAME> explore
 
 Inside the objection console:
 
