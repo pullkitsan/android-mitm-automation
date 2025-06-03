@@ -1,5 +1,7 @@
 # Android MITM Automation Script (Tested on MacBook)
 
+NOTE : THIS WORKS ONLY FOR ANDROID ROOTED WITH MAGISK and for Android <=13
+
 This script automates the following manual processes:
 
 1. **Install mitmproxy Certificate on Android**  
